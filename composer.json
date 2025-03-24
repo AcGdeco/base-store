@@ -29,10 +29,6 @@
         },
         {
             "type": "vcs",
-            "url": "https://github.com/AcGdeco/deco_theme.git"
-        },
-        {
-            "type": "vcs",
             "url": "https://github.com/AcGdeco/base_theme.git"
         },
         {
@@ -87,7 +83,6 @@
         "composer/composer": "^2.0, !=2.2.16",
         "deco/adress": "dev-main",
         "deco/base_theme": "dev-main",
-        "deco/deco_theme": "dev-main",
         "deco/menu": "dev-main",
         "deco/rates": "dev-main",
         "deco/tag": "dev-main",
